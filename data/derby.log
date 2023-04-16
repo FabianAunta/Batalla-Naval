@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+2023-04-13 00:22:39.706 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.1.1.0 - (208786): instance c013800d-0187-77fe-2eeb-0000446ebaa1
+on database directory C:\Users\fabia\eclipse-workspace\Batalla-Naval\data\batallaNaval 
+
+Database Class Loader started - derby.database.classpath=''
+
+2023-04-13 00:23:54.272 GMT:
+Shutting down instance c013800d-0187-77fe-2eeb-0000446ebaa1
+----------------------------------------------------------------
